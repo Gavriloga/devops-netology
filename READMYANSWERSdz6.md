@@ -47,3 +47,14 @@ man bash - раздел RESERVED WORDS
 7. touch {000001..100000}.[расширениефайла] 
 ![image](https://user-images.githubusercontent.com/97973917/218825067-3f3340fd-5268-4573-adda-947f92916db2.png)
  
+ 
+ 
+8. 1.![image](https://user-images.githubusercontent.com/97973917/218827960-7afea56f-8ba3-42b7-bcea-a77604ca9be4.png)
+
+   2.Проверяет наличие директории tmp
+
+9. ![image](https://user-images.githubusercontent.com/97973917/218831073-24314eda-2646-4fec-b4a2-ce90b30d64dd.png)
+
+10. at - Используется для назначения одноразового задания на заданное время
+batch - Используется для назначения одноразовых задач, которые должны выполняться, когда загрузка системы становится 0,8 (0,5)
+
